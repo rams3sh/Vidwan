@@ -1,4 +1,4 @@
-# /usr/bin/python
+# !/usr/bin/python
 import requests
 import sqlite3
 import BeautifulSoup as bs
