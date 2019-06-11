@@ -16,4 +16,3 @@ The project is currently under development.
 
 However, the GHDB.db and Updater.py will be of lot of help if you are planning to write any customised script of your own for a Dork search. Feel free to modify and use it. 
 
-In case you want to contact me, you can reach me at godzillagenx@gmail.com
